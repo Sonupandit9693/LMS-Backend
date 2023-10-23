@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "module": "CommonJS", // You can choose "CommonJS" or another module system you prefer
+      "moduleResolution": "Node" // This should be set to "Node" for Node.js projects
+    },
+    "include": ["**/*.ts"]
+  }
+  
